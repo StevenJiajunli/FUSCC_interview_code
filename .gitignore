@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.RData
+*.rds
+*.RDS
+*.h5ad
+*.h5
+*.csv
+*.tsv
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+.ipynb_checkpoints/
