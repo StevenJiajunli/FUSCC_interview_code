@@ -24,3 +24,5 @@ Some paths, object names, or intermediate files may need to be adjusted accordin
 Prepared by **Jiajun Li**.
 
 Thank you for your review.
+
+Wu, S.Y., et al., CCL19(+) dendritic cells potentiate clinical benefit of anti-PD-(L)1 immunotherapy in triple-negative breast cancer. Med, 2023. 4(6): p. 373-393 e8.
