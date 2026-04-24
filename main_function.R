@@ -28,13 +28,13 @@ source("~/additional_fuctions_for_FUSCC.R")
 
 ## 数据读取 ======
 
-`1866-counts_DC_cohort1` <- readRDS("~/Steven Lijiajun/Steven/FUSCC面试/1866-counts_DC_cohort1.rds")
+`1866-counts_DC_cohort1` <- readRDS("~/1866-counts_DC_cohort1.rds")
 
 datafilt <- `1866-counts_DC_cohort1`
 
 # reference: 2021_Bassez_BRCA_ICB_cohort
 
-Bassez <- readRDS("~/Steven Lijiajun/Pancancer ICB B cell atlas/cohorts/ICB_2021_BRCA_Bassez/ICB_2021_BRCA_Bassez_all.rds")
+Bassez <- readRDS("~/ICB_2021_BRCA_Bassez_all.rds")
 
 ## data pre-processing ======
 
