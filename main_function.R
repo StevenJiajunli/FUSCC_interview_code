@@ -26,7 +26,7 @@ mycol <- c(brewer.pal(5,"Set1"), brewer.pal(8,"Set2"),
 
 source("~/additional_fuctions_for_FUSCC.R")
 
-## 数据读取 ======
+## Data Loading ======
 
 `1866-counts_DC_cohort1` <- readRDS("~/1866-counts_DC_cohort1.rds")
 
@@ -178,7 +178,7 @@ result_KEGG <- gsea_analysis(input = input,
                              set.max = 1000)
 
 
-## 可视化 ======
+## Visualization ======
 
 
 ## Fig.1e -----
